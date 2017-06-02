@@ -11,7 +11,7 @@ Creating the initial layout for the maze and building the walls using the prefab
 
 ***Notes*
 I could not work out how to prevent the birds from passing through the terrain in the scene.
-I only baked the scene at 40 texels per unit. 80 texels produced over 125 lightmaps and seemed too exccessive.
+I only baked the scene at 40 texels per unit. 80 texels produced over 125 lightmaps and seemed too excessive.
 Classical music only used for the purpose of this exercise as I did not have the time to create a soundtrack.
 
 App built with Unity 5.5.0f3 using the gvr-unity-sdk-1.0.3 and tested on the Google Pixel XL
