@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{00C641C5-A9FE-B690-9455-8371F1F1280A}") = "RichBarr_Project3_AMaze", "Assembly-CSharp.csproj", "{6FF39EDB-5B63-73C3-CCA7-CAE90F4768C7}"
+EndProject
+Project("{00C641C5-A9FE-B690-9455-8371F1F1280A}") = "RichBarr_Project3_AMaze", "Assembly-CSharp-Editor.csproj", "{EE40552E-5129-9391-4CC5-96374CC14D66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF39EDB-5B63-73C3-CCA7-CAE90F4768C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF39EDB-5B63-73C3-CCA7-CAE90F4768C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF39EDB-5B63-73C3-CCA7-CAE90F4768C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF39EDB-5B63-73C3-CCA7-CAE90F4768C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE40552E-5129-9391-4CC5-96374CC14D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE40552E-5129-9391-4CC5-96374CC14D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE40552E-5129-9391-4CC5-96374CC14D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE40552E-5129-9391-4CC5-96374CC14D66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
